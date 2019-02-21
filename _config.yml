@@ -2,5 +2,11 @@
 # theme: jekyll-theme-slate
 remote_theme: pmarsceill/just-the-docs
 
+search_enabled: true
+
 title: Hackerspace Organizational Documents
 # description: ...
+
+aux_links:
+    "Help Build This Project":
+      - "//github.com/mrflip/hackerspace-org-docs"
