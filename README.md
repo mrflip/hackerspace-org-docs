@@ -1,4 +1,6 @@
-These are a collection of organizational documents from Hackerspaces all over the world. They're better read at [mrflip.github.io/hackerspace-org-docs](https://mrflip.github.io/hackerspace-org-docs).
+These are a collection of organizational documents from Hackerspaces all over the world. They're better read at [mrflip.github.io/hackerspace-org-docs](https://mrflip.github.io/hackerspace-org-docs). 
+
+To propose changes, [view this project on GitHub](https://github.com/mrflip/hackerspace-org-docs) and submit a pull request -- if you're logged in to github you can do so right from the browser.
 
 
 * Bylaws
@@ -15,5 +17,3 @@ These are a collection of organizational documents from Hackerspaces all over th
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
   - [Member Agreement of Dallas Makerspace](Member-Agreement-of-10BitWorks)
-
-To make changes, fork this repo and submit a pull request -- if you're logged in to github you can do so right from the browser.
