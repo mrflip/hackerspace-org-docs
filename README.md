@@ -1,7 +1,16 @@
-# Hackerspace Organizational Documents
+These are a collection of organizational documents from Hackerspaces all over the world:
 
-Organizational documents (bylaws, code of conduct, member policies) for Hackerspaces / Maker spaces / other non-profits.
+* [[By-laws]]
+  - [[Bylaws of Quelab]]
+  - [[Bylaws of Xerocraft]]
+  - [Bylaws of Dallas Makerspace](Bylaws-of-Dallas-Makerspace)
+  - [Bylaws of 10Bit](Bylaws-of-10Bit) (San Antonio)
+  - [[Bylaws of Freeside]] (Atlanta)
+* [[Corporate Charter]]
+* [[Code of Conduct]]
+* [[Workshop Safety One-Sheets]]
+* [[Member Policies]]
 
-The contents are on the wiki for this project: https://github.com/mrflip/hackerspace-org-docs/wiki
+* Member Agreements
+  - [[Member Agreement of 10BitWorks]]
 
-You may fork the wiki from https://github.com/mrflip/hackerspace-org-docs.wiki.git
