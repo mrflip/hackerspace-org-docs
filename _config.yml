@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
 
 title: Hackerspace Organizational Documents
 # description: ...

@@ -16,6 +16,6 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
 
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
-  - [Member Agreement of Dallas Makerspace](Member-Agreement-of-10BitWorks)
+  - [Member Agreement of Dallas Makerspace](Member-Agreement-of-Dallas-Makerspace)
 * Corporate Charter/Articles of Incorporation
   - [Articles of Incorporation of Davis Makerspace](Articles-of-Incorporation-of-Davis-Makerspace)
