@@ -9,7 +9,7 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   - [Bylaws of Dallas Makerspace](Bylaws-of-Dallas-Makerspace)
   - [Bylaws of 10Bit](Bylaws-of-10Bit) (San Antonio)
   - [Bylaws of Freeside](Bylaws-of-Freeside) (Atlanta)
-* Corporate Charter
+  - [Bylaws of Davis Makerspace](Bylaws-of-Davis-Makerspace)
 * Code of Conduct
 * Workshop Safety One-Sheets
 * Member Policies
@@ -17,3 +17,5 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
   - [Member Agreement of Dallas Makerspace](Member-Agreement-of-10BitWorks)
+* Corporate Charter/Articles of Incorporation
+  - [Articles of Incorporation of Davis Makerspace](Articles-of-Incorporation-of-Davis-Makerspace)
