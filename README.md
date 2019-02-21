@@ -13,7 +13,10 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   
 * Code of Conduct
   - [Code of Conduct of Freeside](Code-of-Conduct-of-Freeside)
+
 * Workshop Safety One-Sheets
+  - ...
+  
 * Member Policies
 
 * Member Agreements
