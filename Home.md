@@ -3,8 +3,8 @@ These are a collection of organizational documents from Hackerspaces all over th
 * [[By-laws]]
   - [[Bylaws of Quelab]]
   - [[Bylaws of Xerocraft]]
-  - [[Bylaws of Dallas Makerspace]]
-  - [[Bylaws of 10bit]] (San Antonio)
+  - [Bylaws of Dallas Makerspace](Bylaws-of-Dallas-Makerspace)
+  - [Bylaws of 10Bit](Bylaws-of-10Bit) (San Antonio)
   - [[Bylaws of Freeside]] (Atlanta)
 * [[Corporate Charter]]
 * [[Code of Conduct]]
