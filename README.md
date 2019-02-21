@@ -1,4 +1,5 @@
-These are a collection of organizational documents from Hackerspaces all over the world:
+These are a collection of organizational documents from Hackerspaces all over the world. They're better read at [mrflip.github.io/hackerspace-org-docs](https://mrflip.github.io/hackerspace-org-docs).
+
 
 * Bylaws
   - [Bylaws of Quelab](Bylaws-of-Quelab)
@@ -12,5 +13,6 @@ These are a collection of organizational documents from Hackerspaces all over th
 * Member Policies
 
 * Member Agreements
-  - [Member Agreement of 10BitWorks](Member Agreement of 10BitWorks)
+  - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
 
+To make changes, fork this repo and submit a pull request -- if you're logged in to github you can do so right from the browser.
