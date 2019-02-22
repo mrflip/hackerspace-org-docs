@@ -16,11 +16,8 @@ The Corporation shall exist in perpetuity, from and after the Effective Date of 
 ## ARTICLE IV – TRANSACTIONS WITH INTERESTED DIRECTORS OR OFFICERS
 
 1. No contract or other transaction between the Corporation and one or more of its directors or officers, or between the Corporation and any corporation, firm or association in which one or more of its directors or officers are directors or officers or are financially interested in the second Corporation, shall be either void or voidable solely because of such relationship or interest or solely because such director or officer is present at the meeting of the Board of Directors or a committee thereof which authorizes, approves, or ratifies such contract or transaction or solely because their votes are counted for such purpose, if:
-
   - a. The fact of such relationship or interest is disclosed or known to the Board of Directors or committee and noted in the minutes, and the board or committee authorizes, approves, or ratifies the contract or transaction in good faith by a vote or consent sufficient for the purpose without counting the votes or consents of such interested directors; or
-
   - b. The fact of such relationship or interest is not disclosed or known to the director or officer at the time the transaction is brought before the Board of Directors of the Corporation for action; or
-
   - c. The contract or transaction is fair and reasonable to the Corporation at the time it is authorized or approved.
 
 Common or interested directors may be counted in determining the presence of a quorum at a meeting of the Board of Directors or a committee thereof which authorizes, approves, or ratifies such contract or transaction, and if the votes of the common or interested directors are not counted at the meeting, then a majority of the disinterested directors may authorize, approve or ratify the contract or transaction.
