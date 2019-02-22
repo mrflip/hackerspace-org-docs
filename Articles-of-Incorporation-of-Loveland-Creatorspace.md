@@ -55,11 +55,12 @@ The Corporation shall exist in perpetuity, from and after the Effective Date of 
 
 1. The property of this corporation is irrevocably dedicated to educational purposes and no part of the net income or assets of this corporation shall inure to the benefit of any director, officer, or member thereof or to the benefit of any private person.
 
-1. Upon the dissolution of the corporation, its assets remaining after payment, or provision for payment, of all debts and liabilities of this corporation shall be distributed to a nonprofit fund, foundation, or corporation which is organized and operated for educational purposes and which has established its tax-exempt status under Section 501(c)(3) of the Internal Revenue Code.
-1. No substantial part of the activities of this corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation (except as otherwise provided by Section 501(h) of the Internal Revenue Code), and this corporation shall not participate in, or intervene in (including the publishing or distribution of statements), any political campaign on behalf of, or in opposition to, any candidate for public office.
+2. Upon the dissolution of the corporation, its assets remaining after payment, or provision for payment, of all debts and liabilities of this corporation shall be distributed to a nonprofit fund, foundation, or corporation which is organized and operated for educational purposes and which has established its tax-exempt status under Section 501(c)(3) of the Internal Revenue Code.
 
-No part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, its members, directors, officers, or other private persons, except that this corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in these articles.
+3. No substantial part of the activities of this corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation (except as otherwise provided by Section 501(h) of the Internal Revenue Code), and this corporation shall not participate in, or intervene in (including the publishing or distribution of statements), any political campaign on behalf of, or in opposition to, any candidate for public office.
 
-Notwithstanding any other provision of these articles, this corporation shall not carry on any other activities not permitted to be carried on:
+4. No part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, its members, directors, officers, or other private persons, except that this corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in these articles.
+
+5. Notwithstanding any other provision of these articles, this corporation shall not carry on any other activities not permitted to be carried on:
 By a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, or
 By a corporation contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code.
