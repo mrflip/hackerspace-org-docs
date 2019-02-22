@@ -37,7 +37,31 @@ This Corporation is organized exclusively for the purposes as specified in Secti
 
 The specific and primary purpose of the Corporation is to engage in scientific research as well as charitable educational activities within the meaning of Section 501(c)(3) of the Internal Revenue Code, including but not limited to:
 - (a) To provide work space, storage, and other resources for projects related to technology and artistic expression;
-- (b) Through talks, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a by the members, if any, of this Corporation, the activities and affairs of this Corporation shall be conducted and all corporate powers shall be exercised by or under the direction of the Board of Directors.
+- (b) Through talks, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a safe, clean space;
+- (c) To develop, support the development of, and provide resources for the development of free and open source software and hardware.
+
+## Article 3: Directors
+
+### Section 1. Number, Records, and Founding Directors
+
+The corporation shall have six (6) Directors and collectively they shall be known as the
+Board of Directors.
+
+Directors shall have their names and electronic mail addresses filed at the principle office
+of the Corporation.
+
+### Section 2. Qualifications
+
+Directors shall be of the age of majority in this state. Directors are required to be
+members in the Corporation.
+
+### Section 3. Powers
+
+Subject to the provisions of the laws of this state and any limitations in the articles of
+incorporation and these bylaws relating to action required or permitted to be taken or approved
+by the members, if any, of this Corporation, the activities and affairs of this Corporation shall be
+conducted and all corporate powers shall be exercised by or under the direction of the Board of
+Directors
 
 ### Section 4: Duties
 
@@ -248,8 +272,6 @@ The Board of Directors may accept on behalf of the Corporation any contribution,
 
 ## Article 7: Corporate Records, Seal, and Reports
 
-
-
 ### Section 1: Maintenance of Corporate Records
 
 The corporation shall keep at its principal office:
@@ -271,7 +293,9 @@ Every Director shall have the absolute right at any reasonable time to inspect a
 Each and every member shall have the following inspection rights, for a purpose reasonably related to such person’s interest as a member:
 
 - (a) To inspect and copy the record of all members, their electronic mail addresses, and voting rights, at reasonable times, upon written demand on the Secretary of the Corporation, which demand shall state the purpose for which the inspection rights are requested.
-- (b) To inspect at any reasonable time the books, records, or minutes of proceedings of the members or of the Board or Committees of the Board, upon written demand on the Secretary of the Corporation by the member, for a purpose reasonably related to such person’s interests as a member. Members shall have such other rights to inspect the books, records, and properties of this Corporation as may be required under the articles of incorporation, other provisions of these bylaws, and provisions of law.
+- (b) To inspect at any reasonable time the books, records, or minutes of proceedings of the members or of the Board or Committees of the Board, upon written demand on the Secretary of the Corporation by the member, for a purpose reasonably related to such person’s interests as a member.
+
+Members shall have such other rights to inspect the books, records, and properties of this Corporation as may be required under the articles of incorporation, other provisions of these bylaws, and provisions of law.
 
 ### Section 5: Right to Copy and Make Extracts
 
@@ -285,7 +309,9 @@ The Board shall cause any annual or periodic report required under law to be pre
 
 ### Section 1: Limitations on Activities
 
-No substantial part of the activities of this Corporation shall be the carrying on of propaganda, or otherwise attempting to influence legislation (except as otherwise provided by Section 501(h) of the Internal Revenue Code), and this Corporation shall not participate in, or intervene in (including the publishing or distribution of statements), any political campaign on behalf of, or in opposition to, any candidate for public office. Notwithstanding any other provisions of these bylaws, this Corporation shall not carry on any activities not permitted to be carried on (a) by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, or (b) by a corporation, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code.
+No substantial part of the activities of this Corporation shall be the carrying on of propaganda, or otherwise attempting to influence legislation (except as otherwise provided by Section 501(h) of the Internal Revenue Code), and this Corporation shall not participate in, or intervene in (including the publishing or distribution of statements), any political campaign on behalf of, or in opposition to, any candidate for public office.
+
+Notwithstanding any other provisions of these bylaws, this Corporation shall not carry on any activities not permitted to be carried on (a) by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, or (b) by a corporation, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code.
 
 ### Section 2: Prohibition Against Private Inurement
 
@@ -305,7 +331,13 @@ Subject to the power of the Directors of this Corporation to adopt, amend, or re
 
 ## Article 10: Construction and Terms
 
-If there is any conflict between the provisions of these bylaws and the articles of incorporation of this Corporation, the provisions of the articles of incorporation shall govern. Should any of the provisions or portions of these bylaws be held unenforceable or invalid for any reason, the remaining provisions and portions of these bylaws shall be unaffected by such holding. All references in these bylaws to the articles of incorporation shall be to the articles of incorporation, articles of organization, certificate of incorporation, organizational charter, corporate charter, or other founding document of this Corporation filed with an office of this state and used to establish the legal existence of this Corporation. All references in these bylaws to a section or sections of the Internal Revenue Code shall be to such sections of the Internal Revenue Code of 1986 as amended from time to time, or to corresponding provisions of any future federal tax code.
+If there is any conflict between the provisions of these bylaws and the articles of incorporation of this Corporation, the provisions of the articles of incorporation shall govern.
+
+Should any of the provisions or portions of these bylaws be held unenforceable or invalid for any reason, the remaining provisions and portions of these bylaws shall be unaffected by such holding.
+
+All references in these bylaws to the articles of incorporation shall be to the articles of incorporation, articles of organization, certificate of incorporation, organizational charter, corporate charter, or other founding document of this Corporation filed with an office of this state and used to establish the legal existence of this Corporation.
+
+All references in these bylaws to a section or sections of the Internal Revenue Code shall be to such sections of the Internal Revenue Code of 1986 as amended from time to time, or to corresponding provisions of any future federal tax code.
 
 ## Article 11: Members
 
@@ -315,11 +347,15 @@ The Corporation shall have only one class of members. No member shall hold more 
 
 ### Section 2: Qualifications of Members
 
-The qualifications for membership in this Corporation are as follows: Must be of the age of majority or have the approval in writing from their legal parent or guardian. The Board of Directors may adopt policies that further restrict the Qualification of Membership in this Corporation, provided these restrictions are not in conflict with the articles of incorporation, nonprofit purpose, or provisions of law.
+The qualifications for membership in this Corporation are as follows: Must be of the age of majority or have the approval in writing from their legal parent or guardian.
+
+The Board of Directors may adopt policies that further restrict the Qualification of Membership in this Corporation, provided these restrictions are not in conflict with the articles of incorporation, nonprofit purpose, or provisions of law.
 
 ### Section 3: Admission of Members
 
-The Board of Directors will adopt and maintain a policy that defines the process by which an individual is admitted as a member of this Corporation. This policy will be consistent with these bylaws, the nonprofit purpose, and provisions of law. If the Board has not adopted a policy that defines the Admission Process, the following process will apply: Each prospective member shall be approved by majority of the Board. Approval via electronic mail is sufficient; a special meeting is not required.
+The Board of Directors will adopt and maintain a policy that defines the process by which an individual is admitted as a member of this Corporation. This policy will be consistent with these bylaws, the nonprofit purpose, and provisions of law.
+
+If the Board has not adopted a policy that defines the Admission Process, the following process will apply: Each prospective member shall be approved by majority of the Board. Approval via electronic mail is sufficient; a special meeting is not required.
 
 ### Section 4: Fees and Dues
 
@@ -343,14 +379,21 @@ No member may transfer a membership or any right arising from membership. All ri
 
 ### Section 9: Member Code of Conduct
 
-We do not engage in illegal activity. We require honesty and integrity. We respect each individual’s perspectives and property. We responsibly conserve the group’s resources.
+* We do not engage in illegal activity.
+* We require honesty and integrity.
+* We respect each individual’s perspectives and property.
+* We responsibly conserve the group’s resources.
 
 ### Section 10: Termination of Membership
 
 The membership of a member shall terminate upon the occurrence of any of the following events:
 - (a) Upon his or her notice of such termination delivered to the President, Treasurer, or Secretary of the Corporation personally or by electronic mail, such membership to terminate upon the date of delivery of the notice or date of deposit in the mail.
 - (b) Upon failure to pay established dues and being given notice pursuant to a Delinquent Dues policy adopted by the Board of Directors. If the Board has not adopted such a policy, membership will be terminated thirty (30) days after a written notification of delinquency is personally or electronically delivered to such member by the Treasurer of the Corporation.
-- (c) After providing the member with reasonable written notice, upon a determination by the Board of Directors that the member has engaged in conduct materially and seriously prejudicial to the interests or purposes of the Corporation. The Board of Directors may adopt additional policies that define events and processes for termination of membership. These policies must be in line with these bylaws, the articles of incorporation, and provisions of law. All rights of a member in the corporation shall cease upon termination of membership as herein provided.
+- (c) After providing the member with reasonable written notice, upon a determination by the Board of Directors that the member has engaged in conduct materially and seriously prejudicial to the interests or purposes of the Corporation.
+
+The Board of Directors may adopt additional policies that define events and processes for termination of membership. These policies must be in line with these bylaws, the articles of incorporation, and provisions of law.
+
+All rights of a member in the corporation shall cease upon termination of membership as herein provided.
 
 ## Article 12: Meetings of Members
 
@@ -360,10 +403,16 @@ Meetings of members shall be held at the principal office of the Corporation or 
 
 ### Section 2: Regular Meetings
 
-A regular meeting of members shall be held on the first Tuesday of May, at 7:00 P. M., for the purpose of electing open Directors seats, President, and transacting other business as may be opened for member vote by the Board of Directors. A regular meeting of members shall be held on the first Tuesday of November, at 7:00 P. M., for the purpose of electing open Directors seats, and transacting other business as may be opened for member vote by the Board of Directors. For election of Directors and President, the candidates receiving the highest number of votes shall be elected. Each voting member shall cast one vote,
+A regular meeting of members shall be held on the first Tuesday of May, at 7:00 P. M., for the purpose of electing open Directors seats, President, and transacting other business as may be opened for member vote by the Board of Directors.
+
+A regular meeting of members shall be held on the first Tuesday of November, at 7:00 P. M., for the purpose of electing open Directors seats, and transacting other business as may be opened for member vote by the Board of Directors.
+
+For election of Directors and President, the candidates receiving the highest number of votes shall be elected. Each voting member shall cast one vote,
 - (a) in person by secret ballot at the meeting,
 - (b) by e-mail or facsimile transmission received prior to the meeting in a manner set forth by the Board of Directors, and
-- (c) by any combination of the above mentioned methods as determined by the Board of Directors. When there is only one nominee for an office, such member may be elected by voice vote. The Secretary of the corporation will tally the votes. The day of a regular meeting may be moved by the Board of Directors up to thirty (30) days earlier or fifteen (15) days later than the date specified, provided notice is given to members sixty (60) days prior to the change.
+- (c) by any combination of the above mentioned methods as determined by the Board of Directors. When there is only one nominee for an office, such member may be elected by voice vote. The Secretary of the corporation will tally the votes.
+
+The day of a regular meeting may be moved by the Board of Directors up to thirty (30) days earlier or fifteen (15) days later than the date specified, provided notice is given to members sixty (60) days prior to the change.
 
 ### Section 3: Special Meetings of Members
 
@@ -371,11 +420,17 @@ Special meetings of the members shall be called by the Board of Directors, the c
 
 ### Section 4: Notice of Meetings
 
-Unless otherwise provided by the articles of incorporation, these bylaws, or provisions of law, notice stating the place, day, and hour of the meeting and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than three (3) nor more than thirty (30) days before the date of the meeting, either personally or by electronic mail, by or at the direction of the President, or the Secretary, or the persons calling the meeting, to each member entitled to vote at such meeting. If mailed, such notice shall be deemed to be delivered when sent via electronic mail addressed to the member at his or her electronic mail address as it appears on the records of the corporation. Personal notification includes notification by telephone or in person. The notice of any meeting of members at which Directors are to be elected shall also state the names of all those who are nominees or candidates for election to the Board at the time notice is given. Whenever any notice of a meeting is required to be given to any member of this corporation under provisions of the articles of incorporation, these bylaws, or the law of this state, a waiver of notice in writing signed by the member, whether before or after the time of the meeting, shall be equivalent to the giving of such notice.
+Unless otherwise provided by the articles of incorporation, these bylaws, or provisions of law, notice stating the place, day, and hour of the meeting and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than three (3) nor more than thirty (30) days before the date of the meeting, either personally or by electronic mail, by or at the direction of the President, or the Secretary, or the persons calling the meeting, to each member entitled to vote at such meeting. If mailed, such notice shall be deemed to be delivered when sent via electronic mail addressed to the member at his or her electronic mail address as it appears on the records of the corporation. Personal notification includes notification by telephone or in person.
+
+The notice of any meeting of members at which Directors are to be elected shall also state the names of all those who are nominees or candidates for election to the Board at the time notice is given.
+
+Whenever any notice of a meeting is required to be given to any member of this corporation under provisions of the articles of incorporation, these bylaws, or the law of this state, a waiver of notice in writing signed by the member, whether before or after the time of the meeting, shall be equivalent to the giving of such notice.
 
 ### Section 5: Quorum for Meetings
 
-A quorum shall consist of one third of the voting members of the Corporation. Except as otherwise provided under the articles of incorporation, these bylaws, or provisions of law, no business shall be considered by the members at any meeting at which the required quorum is not present, and the only motion which the chair shall entertain at such meeting is a motion to adjourn.
+A quorum shall consist of one third of the voting members of the Corporation.
+
+Except as otherwise provided under the articles of incorporation, these bylaws, or provisions of law, no business shall be considered by the members at any meeting at which the required quorum is not present, and the only motion which the chair shall entertain at such meeting is a motion to adjourn.
 
 ### Section 6: Quorum Action as Membership Action
 
@@ -391,8 +446,14 @@ Except as otherwise provided under the articles of incorporation, these bylaws, 
 - (a) set forth the proposed action;
 - (b) provide an opportunity to specify approval or disapproval of each proposal;
 - (c) indicate the number of responses needed to meet the quorum requirement and, except for ballots soliciting votes for the election of Directors or President, state the percentage of approvals necessary to pass the measure submitted; and
-- (d) shall specify the date by which the ballot must be received by the corporation in order to be counted. The date set shall afford members a reasonable time within which to return the ballots to the corporation. Ballots shall be mailed or delivered in the manner specified in these bylaws. Approval of action by written ballot shall be valid only when the number of votes cast by ballot within the time period specified equals or exceeds the quorum required to be present at a meeting authorizing the action, and the number of approvals equals or exceeds the number of votes that would be required to approve the action at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot.
+- (d) shall specify the date by which the ballot must be received by the corporation in order to be counted. The date set shall afford members a reasonable time within which to return the ballots to the corporation.
+
+Ballots shall be mailed or delivered in the manner specified in these bylaws.
+
+Approval of action by written ballot shall be valid only when the number of votes cast by ballot within the time period specified equals or exceeds the quorum required to be present at a meeting authorizing the action, and the number of approvals equals or exceeds the number of votes that would be required to approve the action at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot.
 
 ### Section 9: Conduct of Meetings
 
-Meetings of members shall be presided over by the chairperson of the Board, or, if there is no chairperson or, in his or her absence, by the President of the Corporation or, in his or her absence, by a chairperson chosen by a majority of the voting members present at the meeting. The Secretary of the Corporation shall act as secretary of all meetings of members, provided that, in his or her absence, the presiding officer shall appoint another person to act as secretary of the meeting. Meetings shall be governed by these bylaws, as such rules may be revised from time to time, insofar as such rules are not inconsistent with or in conflict with the articles of incorporation or with provisions of law.
+Meetings of members shall be presided over by the chairperson of the Board, or, if there is no chairperson or, in his or her absence, by the President of the Corporation or, in his or her absence, by a chairperson chosen by a majority of the voting members present at the meeting. The Secretary of the Corporation shall act as secretary of all meetings of members, provided that, in his or her absence, the presiding officer shall appoint another person to act as secretary of the meeting.
+
+Meetings shall be governed by these bylaws, as such rules may be revised from time to time, insofar as such rules are not inconsistent with or in conflict with the articles of incorporation or with provisions of law.
