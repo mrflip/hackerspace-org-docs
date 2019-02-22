@@ -9,26 +9,29 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
 
 
 * Bylaws
-  - [Bylaws of Quelab](Bylaws-of-Quelab)
-  - [Bylaws of Xerocraft](Bylaws-of-Xerocraft)
+  - [Bylaws of 10BitWorks](Bylaws-of-10BitWorks) (San Antonio)
   - [Bylaws of Dallas Makerspace](Bylaws-of-Dallas-Makerspace)
-  - [Bylaws of 10Bit](Bylaws-of-10Bit) (San Antonio)
-  - [Bylaws of Freeside](Bylaws-of-Freeside) (Atlanta)
   - [Bylaws of Davis Makerspace](Bylaws-of-Davis-Makerspace)
+  - [Bylaws of Freeside](Bylaws-of-Freeside) (Atlanta)
+  - [Bylaws of Quelab](Bylaws-of-Quelab) (Albuquerque)
+  - [Bylaws of Xerocraft](Bylaws-of-Xerocraft) (Tuscon)
   
-* Code of Conduct
-  - [Code of Conduct of Freeside](Code-of-Conduct-of-Freeside)
+* Conduct and Culture
+  - [Conduct and Culture of Freeside](Conduct-and-Culture-of-Freeside)
+
+* Member Policies
+  - [Member Policies of Freeside](Member-Policies-of-Freeside)
+  - [Survey of Membership Charges and Tiers](Survey-of-Membership-Charges-and-Tiers)
 
 * Workshop Safety One-Sheets
   - ...
   
-* Member Policies
-  - ...
-  - [Survey of Membership Charges and Tiers](Survey-of-Membership-Charges-and-Tiers)
-
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
   - [Member Agreement of Dallas Makerspace](Member-Agreement-of-Dallas-Makerspace)
 
 * Corporate Charter/Articles of Incorporation
-  - [Articles of Incorporation of Davis Makerspace](Articles-of-Incorporation-of-Davis-Makerspace)
+  - [Incorporation Articles of Davis Makerspace](Incorporation-Articles-of-Davis-Makerspace)
+  - [Incorporation Articles of Loveland Creatorspace](Incorporation-Articles-of-Loveland-Creatorspace)
+
+* [Other Notes](Other-Notes)
