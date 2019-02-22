@@ -1,12 +1,11 @@
-Title             : Corporation Bylaws of Davis Makerspace
-Author            : James R Holliday,
-                    Braden Pellett,
-                    Nicholas Weigand,
-                    Tim Feldman
-Date              : 7 October 2013
-Version           : 2.1.20131007
+# Bylaws of Davis Makerspace
 
 See original at [github.com/DavisMakerspace/doc-bylaws](https://github.com/DavisMakerspace/doc-bylaws).
+
+* Title             : Corporation Bylaws of Davis Makerspace
+* Author            : James R Holliday, Braden Pellett, Nicholas Weigand, Tim Feldman
+* Date              : 7 October 2013
+* Version           : 2.1.20131007
 
 # Name #
 

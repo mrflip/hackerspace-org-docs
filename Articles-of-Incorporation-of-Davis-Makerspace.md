@@ -1,11 +1,11 @@
-Title             : Articles of Incorporation
-Author            : James R Holliday
-Date              : 27 August 2012
-Version           : 1.0.20120827
-
 # Articles of Incorporation of Davis Makerspace
 
 See original at [github.com/DavisMakerspace/doc-articles](https://github.com/DavisMakerspace/doc-articles)
+
+* Title             : Articles of Incorporation
+* Author            : James R Holliday
+* Date              : 27 August 2012
+* Version           : 1.0.20120827
 
 ## Name
 
