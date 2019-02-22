@@ -19,6 +19,7 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   
 * Member Policies
   - ...
+  - [Survey of Membership Charges and Tiers](Survey-of-Membership-Charges-and-Tiers)
 
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
