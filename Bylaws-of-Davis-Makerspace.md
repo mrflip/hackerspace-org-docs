@@ -7,6 +7,9 @@ See original at [github.com/DavisMakerspace/doc-bylaws](https://github.com/Davis
 * Date              : 7 October 2013
 * Version           : 2.1.20131007
 
+1. Table of Contents
+{:toc}
+
 # Name #
 
 The name of this corporation is **Davis Makerspace** (the "Corporation").

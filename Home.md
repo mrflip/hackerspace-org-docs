@@ -1,3 +1,6 @@
+---
+---
+
 # Hackerspace Org Docs
 
 These are a collection of organizational documents from Hackerspaces all over the world. They're better read at [mrflip.github.io/hackerspace-org-docs](https://mrflip.github.io/hackerspace-org-docs). 
