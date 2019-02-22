@@ -23,9 +23,8 @@ The name of this corporation is Davis Makerspace.
 
 The name and address in the State of California of this Corporation's initial agent for service of process is:
 
-    Name    : James R Holliday 
-    Address : 2220 Coverdale Ct.
-              Folsom, CA   95630
+    Name    : (name)
+    Address : (address)
 
 ## Tax Structure
 
@@ -42,20 +41,17 @@ Upon the dissolution or winding up of the corporation, any assets remaining afte
 
 The names and addresses and office held of the persons designated to act as the initial Board of Directors of this corporation are:
 
-    Office  : President, CEO
-    Name    : Jordan Van Aalsburg
-    Address : 1313 Colgate Dr.
-              Davis,  CA   95616
+    Office  : President, CEO 
+    Name    : (name)
+    Address : (address)
 
     Office  : Secretary
-    Name    : James R Holliday
-    Address : 2220 Coverdale Ct.
-              Folsom, CA   95630
+    Name    : (name)
+    Address : (address)
 
     Office  : Treasurer, CFO
-    Name    : Braden Pellett
-    Address : 801 D St. Apt 13
-              Davis,  CA   95616
+    Name    : (name)
+    Address : (address)
 
 ####### IN WITNESS WHEREOF,
 

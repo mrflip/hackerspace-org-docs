@@ -1,4 +1,8 @@
 # Member Policies of Freeside
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Finances
 

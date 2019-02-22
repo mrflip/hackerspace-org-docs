@@ -36,14 +36,14 @@ The purpose of this corporation is to promote, support, and advance technical, s
 
 The specific purpose of the Corporation shall include without limitation:
 
-  * Through talks, classes, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a safe, clean space.
-  * Provide educational spaces for teaching practical skills and theory of technology, science, and art.
-  * Provide work space, tools, and other resources for projects related to art, science, and technology for the betterment of society.
-  * To create, learn, and teach, individually and as a group, inviting members of the community in the Davis area and the world.
-  * To develop, support the development of, and provide resources for the development of free and open source software and hardware for the benefit of society.
-  * Collaboration across disciplines for the benefit of cultural, charitable, and scientific causes.
-  * To foster, by all legal means, the common purposes of its participants.
-  * To conduct or engage in all lawful activities in furtherance of the stated purposes or those incidental to them.
+* Through talks, classes, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a safe, clean space.
+* Provide educational spaces for teaching practical skills and theory of technology, science, and art.
+* Provide work space, tools, and other resources for projects related to art, science, and technology for the betterment of society.
+* To create, learn, and teach, individually and as a group, inviting members of the community in the Davis area and the world.
+* To develop, support the development of, and provide resources for the development of free and open source software and hardware for the benefit of society.
+* Collaboration across disciplines for the benefit of cultural, charitable, and scientific causes.
+* To foster, by all legal means, the common purposes of its participants.
+* To conduct or engage in all lawful activities in furtherance of the stated purposes or those incidental to them.
 
 # Limitations
 
@@ -89,9 +89,9 @@ The board of directors, shall be chosen annually at a general meeting called for
 
 A vacancy or vacancies on the board of directors shall occur in the event of
 
-  * the death, removal, or resignation of any director;
-  * the declaration by resolution of the [Voting Power][] of a vacancy in the office of a director who has been convicted of a felony, declared of unsound mind by a court order, or found by final order or judgment of any court to have breached a duty under California Nonprofit Public Benefit Corporation Law, Chapter 2, Article 3; or
-  * the increase of the authorized number of directors.
+* the death, removal, or resignation of any director;
+* the declaration by resolution of the [Voting Power][] of a vacancy in the office of a director who has been convicted of a felony, declared of unsound mind by a court order, or found by final order or judgment of any court to have breached a duty under California Nonprofit Public Benefit Corporation Law, Chapter 2, Article 3; or
+* the increase of the authorized number of directors.
 
 ### Resignation of Directors
 
@@ -99,10 +99,10 @@ Except as provided below, any director may resign by giving written notice to th
 
 ### Removal of Directors
 
-  * Any director may be removed, with or without cause, by consensus of the [Voting Power][] at a special meeting called for that purpose, or at a regular meeting, provided that notice of that meeting and of the removal questions are given.
-  * Any director who does not attend three successive board meetings will automatically be removed from the board without board resolution unless
-      * the director requests a leave of absence for a limited period of time, and the leave is approved by the [Voting Power][] at a regular or special meeting, or
-      * the director suffers from an illness or disability that prevents him or her from attending meetings and the board by resolution of the [Voting Power][] waives the automatic, removal procedure of this subsection.
+* Any director may be removed, with or without cause, by consensus of the [Voting Power][] at a special meeting called for that purpose, or at a regular meeting, provided that notice of that meeting and of the removal questions are given.
+* Any director who does not attend three successive board meetings will automatically be removed from the board without board resolution unless
+  - the director requests a leave of absence for a limited period of time, and the leave is approved by the [Voting Power][] at a regular or special meeting, or
+  - the director suffers from an illness or disability that prevents him or her from attending meetings and the board by resolution of the [Voting Power][] waives the automatic, removal procedure of this subsection.
 
 ## No Vacancy on Reduction of Number of Directors
 
@@ -118,8 +118,8 @@ The Corporation shall not pay any compensation to Directors for services rendere
 
 Also, Directors may not be compensated for rendering services to the Corporation in a capacity other than as Directors, unless such compensation is reasonable and further provided that not more than 49% of the persons serving as Directors may be "interested persons" which, for purposes of this [Fees and Compensation of Directors][] only, means:
 
-  * any person currently being compensated by the Corporation for services rendered to it within the previous 12 months, whether as a full or part-time Officer or other employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a Director as Director; or
-  * any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
+* any person currently being compensated by the Corporation for services rendered to it within the previous 12 months, whether as a full or part-time Officer or other employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a Director as Director; or
+* any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
 
 # Officers of the Corporation
 
@@ -177,23 +177,23 @@ The chief financial officer shall keep and maintain, or cause to be kept and mai
 
 The chief financial officer shall
 
-  * deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the corporation may designate;
-  * disburse the corporation's funds as the corporation may order;
-  * render to the president and chairman of the board, if any, when requested, an account of all transactions as chief financial officer and of the financial condition of the corporation; and
-  * have such other powers and perform such other duties as the bylaws may require.
+* deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the corporation may designate;
+* disburse the corporation's funds as the corporation may order;
+* render to the president and chairman of the board, if any, when requested, an account of all transactions as chief financial officer and of the financial condition of the corporation; and
+* have such other powers and perform such other duties as the bylaws may require.
 
 # Contracts With Directors
 
 No director of this corporation nor any other corporation, firm, association, or other entity in which one or more of this corporation's directors are directors or have a material financial interest, shall be interested, directly or indirectly, in any contract or transaction with this corporation, unless
 
-  * the material facts regarding that director's financial interest in such contract or transaction or regarding such common directorship, officership, or financial interest are fully disclosed in good faith and noted in the minutes, or are known to all members of the board prior to the consideration of such contract or transaction;
-  * such contract or transaction is authorized in good faith by the [Voting Power][]; and
-  * the corporation for its own benefit enters into the transaction, which is fair and reasonable to the corporation at the time the transaction is entered into.
+* the material facts regarding that director's financial interest in such contract or transaction or regarding such common directorship, officership, or financial interest are fully disclosed in good faith and noted in the minutes, or are known to all members of the board prior to the consideration of such contract or transaction;
+* such contract or transaction is authorized in good faith by the [Voting Power][]; and
+* the corporation for its own benefit enters into the transaction, which is fair and reasonable to the corporation at the time the transaction is entered into.
 
 This Section does not apply to a transaction that is part of an educational or charitable program of this corporation if it
 
-  * is approved or authorized by the corporation in good faith and without unjustified favoritism and
-  * results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the educational or charitable program of this corporation,
+* is approved or authorized by the corporation in good faith and without unjustified favoritism and
+* results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the educational or charitable program of this corporation,
 
 # Loans to Directors and Officers
 
@@ -247,10 +247,10 @@ In order for any proper business item to be transacted at [General Meetings][], 
 
 Approval of any of the following proposals is valid only if the notice or written waiver of notice states the general nature of the proposal or proposals:
 
-  * Removing a director without cause;
-  * Filling vacancies on the board;
-  * Amending the articles of incorporation; or
-  * Electing to wind up and dissolve the corporation.
+* Removing a director without cause;
+* Filling vacancies on the board;
+* Amending the articles of incorporation; or
+* Electing to wind up and dissolve the corporation.
 
 # Voting
 
@@ -286,11 +286,11 @@ Any proxy covering matters for which a public vote is required shall not be vali
 
 No proxy shall be valid after the expiration of 11 months from the date of the proxy, unless provided otherwise in the proxy, except that the maximum term of a proxy shall be three years after the date of execution. A validly executed proxy shall continue in full force and effect until either
 
-  * it is revoked by the person executing it, before the vote is cast under that proxy
-      * by a writing delivered to the corporation stating that the proxy is revoked, or
-      * by a subsequent proxy executed by that person and presented to the meeting, or
-      * as to any meeting, by that person's personal attendance and voting at the meeting; or
-  * written notice of the death or incapacity of the maker of the proxy is received by the corporation before the vote under that proxy is counted. A proxy may not be irrevocable.
+* it is revoked by the person executing it, before the vote is cast under that proxy
+  - by a writing delivered to the corporation stating that the proxy is revoked, or
+  - by a subsequent proxy executed by that person and presented to the meeting, or
+  - as to any meeting, by that person's personal attendance and voting at the meeting; or
+* written notice of the death or incapacity of the maker of the proxy is received by the corporation before the vote under that proxy is counted. A proxy may not be irrevocable.
 
 # Insurance
 
@@ -300,9 +300,9 @@ This corporation shall have the right, and shall use its best efforts, to purcha
 
 This corporation shall keep the following:
 
-  * Adequate and correct books and records of account;
-  * Minutes of the proceedings of its board and committees of the board; and
-  * Minutes of the proceedings of any public meetings.
+* Adequate and correct books and records of account;
+* Minutes of the proceedings of its board and committees of the board; and
+* Minutes of the proceedings of any public meetings.
 
 The minutes and other books and records shall be kept either in written form or in any other form capable of being converted into clearly legible tangible form or in any combination of the two.
 
@@ -328,12 +328,12 @@ Every director shall have the absolute right at any reasonable time to inspect t
 
 The board shall cause an annual report to be sent to the directors within 120 days after the end of the corporation's fiscal year. That report shall contain the following information, in appropriate detail:
 
-  * The assets and liabilities, including the trust funds, of the corporation as of the end of the fiscal year;
-  * The principal changes in assets and liabilities, including trust funds;
-  * The corporation's revenue or receipts, both unrestricted and restricted to particular purposes;
-  * The corporation's expenses or disbursements for both general and restricted purposes;
-  * Any information required by [Maintenance and Inspection of Articles and Bylaws] of these bylaws; and
-  * An independent accountants' report or, if none, the certificate of an authorized officer of the corporation that such statements were prepared without audit from the corporation's books and records.
+* The assets and liabilities, including the trust funds, of the corporation as of the end of the fiscal year;
+* The principal changes in assets and liabilities, including trust funds;
+* The corporation's revenue or receipts, both unrestricted and restricted to particular purposes;
+* The corporation's expenses or disbursements for both general and restricted purposes;
+* Any information required by [Maintenance and Inspection of Articles and Bylaws] of these bylaws; and
+* An independent accountants' report or, if none, the certificate of an authorized officer of the corporation that such statements were prepared without audit from the corporation's books and records.
 
 This requirement of an annual report shall not apply if the corporation receives less than $25,000 in gross receipts during the fiscal year, provided, however, that the information specified above for inclusion in an annual report must be furnished annually to all directors and to any person who requests it in writing. If the board approves, the corporation may send the report and any accompanying material sent pursuant to this section by electronic transmission.
 
@@ -341,13 +341,13 @@ This requirement of an annual report shall not apply if the corporation receives
 
 As part of the annual report, or as a separate document if no annual report is issued, the corporation shall, within 120 days after the end of the corporation's fiscal year, annually prepare and furnish to each director a statement of any transaction or indemnification of the following kind:
 
-  * Any transaction
-      * in which the corporation, or its parent or subsidiary, was a party,
-      * in which an "interested person" had a direct or indirect material financial interest, and
-      * which involved more than $50,000 or was one of several transactions with the same interested person involving, in the aggregate, more than $50,000. For this purpose, an "interested person" is either
-          * any director or officer of the corporation, its parent or subsidiary (but mere common directorship shall not be considered such an interest); or
-          * any holder of more than 10 percent of the [Voting Power][] of the corporation, its parent, or its subsidiary. The statement shall include a brief description of the transaction, the names of interested persons involved, their relationship to the corporation, the nature of their interest in the transaction and, if practicable, the amount of that interest, provided that if the transaction was with a partnership in which the interested person is a partner, only the interest of the partnership need be stated.
-  * Any indemnifications or advances aggregating more than $10,000 paid during the fiscal year to any officer or director of the corporation under [Indemnification] of these bylaws, unless that indemnification has already been approved under Corporations Code section 5238(e)(2).
+* Any transaction
+  - in which the corporation, or its parent or subsidiary, was a party,
+  - in which an "interested person" had a direct or indirect material financial interest, and
+  - which involved more than $50,000 or was one of several transactions with the same interested person involving, in the aggregate, more than $50,000. For this purpose, an "interested person" is either
+    - any director or officer of the corporation, its parent or subsidiary (but mere common directorship shall not be considered such an interest); or
+    - any holder of more than 10 percent of the [Voting Power][] of the corporation, its parent, or its subsidiary. The statement shall include a brief description of the transaction, the names of interested persons involved, their relationship to the corporation, the nature of their interest in the transaction and, if practicable, the amount of that interest, provided that if the transaction was with a partnership in which the interested person is a partner, only the interest of the partnership need be stated.
+* Any indemnifications or advances aggregating more than $10,000 paid during the fiscal year to any officer or director of the corporation under [Indemnification] of these bylaws, unless that indemnification has already been approved under Corporations Code section 5238(e)(2).
 
 # Construction and Definitions
 
@@ -385,6 +385,6 @@ Any otherwise eligible voter who is an interested party with respect to a partic
 
 The Board may adopt, amend or repeal bylaws. Such power is subject to the following limitations:
 
-  * Where any provision of these Bylaws requires the vote of a larger proportion of the Directors than otherwise is required by law, such provision may not be altered, amended or repealed except by the vote of such greater number.
-  * No amendment may extend the term of a Director beyond that for which such Director was elected.
-  * Bylaws may only be adopted, amended or repealed subject to a vote by the [Voting Power][] at a [Public Meeting][] for which written notice of such meeting, setting forth the proposed bylaw revisions with explanations therefor, is given in accordance with these Bylaws.
+* Where any provision of these Bylaws requires the vote of a larger proportion of the Directors than otherwise is required by law, such provision may not be altered, amended or repealed except by the vote of such greater number.
+* No amendment may extend the term of a Director beyond that for which such Director was elected.
+* Bylaws may only be adopted, amended or repealed subject to a vote by the [Voting Power][] at a [Public Meeting][] for which written notice of such meeting, setting forth the proposed bylaw revisions with explanations therefor, is given in accordance with these Bylaws.
