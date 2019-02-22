@@ -1,4 +1,8 @@
 # Bylaws of Quelab
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Article 1 - Offices
 

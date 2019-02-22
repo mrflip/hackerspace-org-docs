@@ -1,5 +1,8 @@
-
 # Bylaws of Dallas Makerspace
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Article I - General Matters
 

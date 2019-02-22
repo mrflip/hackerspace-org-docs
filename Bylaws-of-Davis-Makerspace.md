@@ -1,4 +1,5 @@
 # Bylaws of Davis Makerspace
+{: .no_toc }
 
 See original at [github.com/DavisMakerspace/doc-bylaws](https://github.com/DavisMakerspace/doc-bylaws).
 
