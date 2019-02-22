@@ -1,6 +1,9 @@
 # Bylaws of Dallas Makerspace
 {: .no_toc }
 
+See original at [dallasmakerspace.org/wiki/Bylaws](https://dallasmakerspace.org/wiki/Bylaws). Available under [Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/) license.
+
+
 1. Table of Contents
 {:toc}
 

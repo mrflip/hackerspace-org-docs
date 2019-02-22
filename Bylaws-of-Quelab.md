@@ -1,6 +1,9 @@
 # Bylaws of Quelab
 {: .no_toc }
 
+See original at [quelab.net/wiki/doku.php?id=policies:start](http://quelab.net/wiki/doku.php?id=policies:start)
+[CC Attribution-Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+
 1. Table of Contents
 {:toc}
 

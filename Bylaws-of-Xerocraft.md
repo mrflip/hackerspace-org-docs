@@ -1,6 +1,8 @@
 # Bylaws of Xerocraft
 {: .no_toc }
 
+See original at [wiki.xerocraft.org/wiki/Bylaws](https://wiki.xerocraft.org/wiki/Bylaws). [GNU Free Documentation License 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt) license.
+
 1. Table of Contents
 {:toc}
 

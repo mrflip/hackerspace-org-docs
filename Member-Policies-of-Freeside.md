@@ -1,6 +1,8 @@
 # Member Policies of Freeside
 {: .no_toc }
 
+See original at [wiki.freesideatlanta.org/fs/Policies](https://wiki.freesideatlanta.org/fs/Policies)
+
 1. Table of Contents
 {:toc}
 

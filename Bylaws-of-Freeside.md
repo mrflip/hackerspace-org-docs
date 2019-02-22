@@ -1,7 +1,7 @@
 # Bylaws of Freeside Technology Spaces, Inc.
+{: .no_toc}
 
-See original at https://wiki.freesideatlanta.org/images/5/57/Freeside.ByLaws.2013.pdf
-
+See original at [wiki.freesideatlanta.org/images/5/57/Freeside.ByLaws.2013.pdf](https://wiki.freesideatlanta.org/images/5/57/Freeside.ByLaws.2013.pdf). [Creative Commons Attribution Non-Commercial Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/) license.
 
 1. Table of Contents
 {:toc}
