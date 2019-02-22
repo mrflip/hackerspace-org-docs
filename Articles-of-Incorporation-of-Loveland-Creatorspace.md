@@ -1,5 +1,8 @@
 # Articles of Incorporation of Loveland Creatorspace
 
+1. Table of Contents
+{:toc}
+
 ## ARTICLE I - NAME
 
 The name of the Corporation shall be Loveland CreatorSpace.

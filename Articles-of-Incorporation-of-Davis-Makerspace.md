@@ -7,6 +7,9 @@ See original at [github.com/DavisMakerspace/doc-articles](https://github.com/Dav
 * Date              : 27 August 2012
 * Version           : 1.0.20120827
 
+1. Table of Contents
+{:toc}
+
 ## Name
 
 The name of this corporation is Davis Makerspace.
