@@ -1,12 +1,12 @@
 # How to Not Be Excellent
 
-There's lots of ways to be excellent. Unfortunately, there are also many ways to not be excellent. If you find yourself doing things on the list below, please **pause and reflect**: your actions are very likely not excellent.
+There's lots of ways to be excellent. Unfortunately, there are also many ways to not be excellent.
 
-Context matters, and so many of these actions can be excellent in a certain scenario: persevering in asking a close friend battling depression to go dancing, which they used to enjoy, is generous. Persisting in asking the cute hacker who just joined to go dancing — even when they've politely turned you down twice — is not excellent at best, and harassment at worst.
-
-Why not check with a friend, or your mom, or a board member or officer, or the other party?
+If you find yourself doing things on the list below, please **pause and reflect**: your actions are very likely not excellent. Why not check with a friend, or your mom, or a board member or officer, or the other party?
 
 **Behaviors that are frequently non-excellent**:
+
+> Context matters, and so there are circumstances where many of these actions can be excellent. Persevering in asking a close friend battling depression to go dancing like they used to is generous. Persisting in asking the cute hacker who just joined to go dancing after they've turned you down twice is not excellent at best, and harassment at worst.
 
 * Consuming hackerspace resources more than most. For example:
 
@@ -54,7 +54,14 @@ Why not check with a friend, or your mom, or a board member or officer, or the o
   - Seeing someone harass another member
   - Experiencing repeated behavior that makes you not want to return to the space
 
-  These and other patterns of non-excellent behavior are _not your fault_ and _not your responsibility to address_. But if at all possible, please politely notify the other person, or ask someone to intervene, or notify an officer.
+These and other patterns of non-excellent behavior are _not your fault_ and _not your responsibility to address_. But, unless impossible, please politely notify the other person, or ask someone to intervene, or notify an officer, or contact law enforcement, or a resource line. It is always appropriate to contact the board anonymously, but please **never contact another member anonymously**.
 
+* Notify the board: email [board@atxhs.org](mailto:board@atxhs.org)
+* Send an anonymous email: [www.sendanonymousemail.net/](http://www.sendanonymousemail.net/)
+* Emergency: Call 911
+* National Sexual Assault Telephone Hotline: 800.656.HOPE (4673).
+* Austin Abuse/Exploitation 24-hr SAFEline – Call 512.267.SAFE (7233) or Text 737.888.7233 or visit [safeaustin.org/chat](http://safeaustin.org/chat)
+* Suicide Hotline: 800-273-8255.
+* ?? Should we have printed cards that one may use to signal a "Request for Distance" or "Invitation to be more excellent"
 
 Remember, our goal is to Be Excellent. The right question to ask is not, "is doing this legal or technically permitted?" but rather "is doing this excellent?"
