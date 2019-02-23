@@ -18,6 +18,7 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   
 * Conduct and Culture
   - [Conduct and Culture of Freeside](Conduct-and-Culture-of-Freeside)
+  - [How to Not Be Excellent](How-to-Not-Be-Excellent)
 
 * Member Policies
   - [Member Policies of Freeside](Member-Policies-of-Freeside)
