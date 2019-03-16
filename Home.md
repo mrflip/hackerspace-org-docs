@@ -24,8 +24,10 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   - [Member Policies of Freeside](Member-Policies-of-Freeside)
   - [Survey of Membership Charges and Tiers](Survey-of-Membership-Charges-and-Tiers)
 
-* Workshop Safety One-Sheets
-  - ...
+* Workshop Safety Guides
+  - [Texas A&M Architecture Woodshop Safety Manual](https://www.arch.tamu.edu/media/cms_page_media/198/Manual.pdf)
+  - [Antioch College Woodshop Safety](https://www.antiochcollege.edu/sites/default/files/attachedFiles/AC%20Woodshop%20Safety%20Program%202016.pdf)
+  - [University of Iowa Wood Shop Safety Procedures](http://www.acastronovo.com/ClassHtms/ClassDocs/WoodShopSafety.pdf)
   
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
