@@ -1,4 +1,4 @@
-## Conduct
+## Conduct and Culture of Freeside ATL
 
 ### Anti-Discrimination
 
