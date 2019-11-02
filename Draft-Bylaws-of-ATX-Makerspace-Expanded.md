@@ -1,8 +1,10 @@
-# Draft Bylaws of ATX Makerlabs, Inc.
+# Draft Bylaws of ATX Makerlabs, Inc. (With additions)
 
 ** FOR DISCUSSION PURPOSES ONLY **
 
 ** NOTES - This document was pieced together from the bylaws of various nonprofit 501(c)3 makerspaces as well as form1023.org.  It has not been reviewed by legal counsel.
+
+This version is Mert's version plus changes
 
 {: .no_toc }
 
