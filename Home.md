@@ -28,6 +28,8 @@ To propose changes, [view this project on GitHub](https://github.com/mrflip/hack
   - [Texas A&M Architecture Woodshop Safety Manual](https://www.arch.tamu.edu/media/cms_page_media/198/Manual.pdf)
   - [Antioch College Woodshop Safety](https://www.antiochcollege.edu/sites/default/files/attachedFiles/AC%20Woodshop%20Safety%20Program%202016.pdf)
   - [University of Iowa Wood Shop Safety Procedures](http://www.acastronovo.com/ClassHtms/ClassDocs/WoodShopSafety.pdf)
+  - [Proposed Safety Guide](Proposed-Safety-Guide)
+  - [Safety Manual and Procedures from Loveland](Safety-Manual-and-Procedures-From-Loveland)
   
 * Member Agreements
   - [Member Agreement of 10BitWorks](Member-Agreement-of-10BitWorks)
