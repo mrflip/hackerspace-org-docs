@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-slate
-# remote_theme: pmarsceill/just-the-docs
+# theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
 
