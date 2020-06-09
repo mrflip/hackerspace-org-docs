@@ -1,4 +1,4 @@
-# Safety Manual & Procedures
+# Safety Manual and Procedures from Loveland
 
 ## Loveland
 [Safety Presentation](https://docs.google.com/presentation/d/1SvWSSq4EwEBE6IuOBpImZX2SBzbxGJk7LBK1b5nKZGI/edit#slide=id.p8)
