@@ -12,4 +12,3 @@ aux_links:
     "Help Build This Project":
       - "//github.com/mrflip/hackerspace-org-docs"
 
-theme: jekyll-theme-dinky
