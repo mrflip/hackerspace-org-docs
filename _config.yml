@@ -6,7 +6,7 @@ theme: jekyll-theme-dinky
 search_enabled: true
 
 title: Hackerspace Organizational Documents
-# description: ...
+description: "A collection of organizational documents from Hackerspaces all over the world."
 
 aux_links:
     "Help Build This Project":
